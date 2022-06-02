@@ -1,2 +1,1 @@
-# lakshanbinura
-My portfolio webisite
+This website is developed for my portfolio. 
